@@ -147,11 +147,12 @@ To deploy to Hugging Face Spaces:
 
 ### Interactive App
 
-HF Spaces App Test Link - https://huggingface.co/spaces/sidharthg/Phi2GRPOAssisstant
+Phi2 GRPO Assistant - https://huggingface.co/spaces/sidharthg/Phi2GRPOAssisstant
 
 ### Demo
 
 https://youtu.be/zzhmFf1uVyw
+
 
 
 
