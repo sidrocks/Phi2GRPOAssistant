@@ -145,6 +145,15 @@ To deploy to Hugging Face Spaces:
      - `special_tokens_map.json`
      - `added_tokens.json`
 
+### Interactive App
+
 HF Spaces App Test Link - https://huggingface.co/spaces/sidharthg/Phi2GRPOAssisstant
+
+### Demo
+
+https://youtu.be/zzhmFf1uVyw
+
+
+
 
 
